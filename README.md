@@ -8,7 +8,7 @@ A data analysis project, exploring macroeconomic trends via utilizing R, SQL, an
 <summary><b>🇬🇧 English Report (Click to read the whole report)</b></summary>
 <br>
 
-### 1)PURPOSE AND SCOPE OF THE PROJECT:
+### 1) PURPOSE AND SCOPE OF THE PROJECT:
 
 The primary objective of this project is to analyze macroeconomic trends, perform cross-country comparisons, and find correlations among different variables which are outlined below:
 
@@ -31,6 +31,11 @@ This analysis is based on an interval of 15 years, commencing from 2010, proceed
 -	Pandemic years were also incorporated in time interval with the aim of investigating the economic issues stemming from an unprecedently drastic period.
 -	2024 was designated as the ending year of the dataset, since 2025 data of multiple countries were still missing, as they are still being finalized.
 
+### 2) TECHNOLOGIES / INFRASTRUCTURE
+
+Various tools and technologies were utilized in order for this project to turn out successfully observable. These include the following programs:
+
+
  *The detailed analysis report is currently being constructed.*
 
 </details>
@@ -39,7 +44,7 @@ This analysis is based on an interval of 15 years, commencing from 2010, proceed
 <summary><b>🇫🇷 Rapport Français (Cliquez pour lire le rapport en entier)</b></summary>
 <br>
 
-### 1)LE BUT ET LE CADRE DU PROJET
+### 1) LE BUT ET LE CADRE DU PROJET
 
 L’objectif primaire de ce projet est d’analyser les tendances macroéconomiques, d’exécuter des comparaisons entre les pays, et de trouver des corrélations entre différentes variables qui sont présentées en dessous:
 
