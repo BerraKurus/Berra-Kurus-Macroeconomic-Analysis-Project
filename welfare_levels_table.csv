@@ -1,0 +1,323 @@
+"country_name","year","misery_3_year_moving_avg","avg_misery_index_rank","welfare_level"
+South Africa,2010,28.750000,1,High Risk
+Spain,2010,21.660000,2,High Risk
+Turkiye,2010,20.450000,3,High Risk
+India,2010,19.620000,4,High Risk
+Greece,2010,17.430000,5,High Risk
+Russian Federation,2010,14.260000,6,Vulnerable
+Brazil,2010,13.460000,7,Vulnerable
+United States,2010,11.270000,8,Vulnerable
+Saudi Arabia,2010,10.890000,9,Vulnerable
+France,2010,10.810000,10,Vulnerable
+Indonesia,2010,10.740000,11,Vulnerable
+United Kingdom,2010,10.460000,12,Stable
+Canada,2010,9.960000,13,Stable
+Italy,2010,9.890000,14,Stable
+Mexico,2010,9.460000,15,Stable
+Germany,2010,8.140000,16,Stable
+Australia,2010,8.130000,17,Stable
+China,2010,7.710000,18,High Welfare
+"Korea, Rep.",2010,6.260000,19,High Welfare
+Switzerland,2010,5.500000,20,High Welfare
+Japan,2010,4.370000,21,High Welfare
+South Africa,2011,29.195000,1,High Risk
+Spain,2011,23.125000,2,High Risk
+Greece,2011,19.365000,3,High Risk
+Turkiye,2011,18.355000,4,High Risk
+India,2011,18.070000,5,High Risk
+Russian Federation,2011,14.635000,6,Vulnerable
+Brazil,2011,13.840000,7,Vulnerable
+United States,2011,11.690000,8,Vulnerable
+United Kingdom,2011,11.260000,9,Vulnerable
+Saudi Arabia,2011,11.245000,10,Vulnerable
+France,2011,11.075000,11,Vulnerable
+Indonesia,2011,10.625000,12,Stable
+Italy,2011,10.515000,13,Stable
+Canada,2011,10.255000,14,Stable
+Mexico,2011,9.025000,15,Stable
+China,2011,8.905000,16,Stable
+Australia,2011,8.255000,17,Stable
+Germany,2011,8.095000,18,High Welfare
+"Korea, Rep.",2011,6.640000,19,High Welfare
+Switzerland,2011,5.070000,20,High Welfare
+Japan,2011,4.325000,21,High Welfare
+South Africa,2012,29.620000,1,High Risk
+Spain,2012,24.496666,2,High Risk
+Greece,2012,21.653333,3,High Risk
+Turkiye,2012,18.270000,4,High Risk
+India,2012,17.753333,5,High Risk
+Brazil,2012,13.443333,6,Vulnerable
+Russian Federation,2012,13.273333,7,Vulnerable
+Italy,2012,11.573333,8,Vulnerable
+France,2012,11.313333,9,Vulnerable
+United States,2012,11.173333,10,Vulnerable
+United Kingdom,2012,11.123333,11,Vulnerable
+Saudi Arabia,2012,10.326666,12,Stable
+Indonesia,2012,10.000000,13,Stable
+Canada,2012,9.806666,14,Stable
+Mexico,2012,9.016666,15,Stable
+China,2012,8.336666,16,Stable
+Germany,2012,7.856666,17,Stable
+Australia,2012,7.830000,18,High Welfare
+"Korea, Rep.",2012,6.093333,19,High Welfare
+Switzerland,2012,4.646666,20,High Welfare
+Japan,2012,4.323333,21,High Welfare
+South Africa,2013,30.150000,1,High Risk
+Spain,2013,26.443333,2,High Risk
+Greece,2013,24.766666,3,High Risk
+Turkiye,2013,17.186666,4,High Risk
+India,2013,17.113333,5,High Risk
+Brazil,2013,13.380000,6,Vulnerable
+Italy,2013,12.733333,7,Vulnerable
+Russian Federation,2013,12.606666,8,Vulnerable
+France,2013,11.300000,9,Vulnerable
+United Kingdom,2013,10.983333,10,Vulnerable
+United States,2013,10.363333,11,Vulnerable
+Indonesia,2013,10.003333,12,Stable
+Saudi Arabia,2013,9.733333,13,Stable
+Canada,2013,9.180000,14,Stable
+Mexico,2013,8.773333,15,Stable
+China,2013,8.173333,16,Stable
+Australia,2013,7.823333,17,Stable
+Germany,2013,7.416666,18,High Welfare
+"Korea, Rep.",2013,5.463333,19,High Welfare
+Japan,2013,4.326666,20,High Welfare
+Switzerland,2013,4.323333,21,High Welfare
+South Africa,2014,30.610000,1,High Risk
+Spain,2014,26.343333,2,High Risk
+Greece,2014,26.133333,3,High Risk
+Turkiye,2014,18.016666,4,High Risk
+India,2014,16.383333,5,High Risk
+Italy,2014,13.326666,6,Vulnerable
+Brazil,2014,13.003333,7,Vulnerable
+Russian Federation,2014,11.946666,8,Vulnerable
+France,2014,11.113333,9,Vulnerable
+Indonesia,2014,9.980000,10,Vulnerable
+United Kingdom,2014,9.580000,11,Vulnerable
+United States,2014,8.923333,12,Stable
+Mexico,2014,8.856666,13,Stable
+Canada,2014,8.640000,14,Stable
+Saudi Arabia,2014,8.573333,15,Stable
+Australia,2014,7.886666,16,Stable
+China,2014,6.990000,17,Stable
+Germany,2014,6.696666,18,High Welfare
+Japan,2014,5.016666,19,High Welfare
+"Korea, Rep.",2014,4.573333,20,High Welfare
+Switzerland,2014,4.383333,21,High Welfare
+South Africa,2015,30.343333,1,High Risk
+Greece,2015,25.136666,2,High Risk
+Spain,2015,24.450000,3,High Risk
+Turkiye,2015,17.973333,4,High Risk
+Russian Federation,2015,15.480000,5,High Risk
+India,2015,14.856666,6,Vulnerable
+Brazil,2015,14.643333,7,Vulnerable
+Italy,2015,12.743333,8,Vulnerable
+Indonesia,2015,10.686666,9,Vulnerable
+France,2015,10.646666,10,Vulnerable
+Canada,2015,8.360000,11,Vulnerable
+Mexico,2015,8.200000,12,Stable
+Australia,2015,8.083333,13,Stable
+Saudi Arabia,2015,8.016666,14,Stable
+United Kingdom,2015,7.936666,15,Stable
+United States,2015,7.343333,16,Stable
+China,2015,6.620000,17,Stable
+Germany,2015,5.943333,18,High Welfare
+Japan,2015,4.970000,19,High Welfare
+Switzerland,2015,4.336666,20,High Welfare
+"Korea, Rep.",2015,4.326666,21,High Welfare
+South Africa,2016,31.276666,1,High Risk
+Greece,2016,23.773333,2,High Risk
+Spain,2016,21.763333,3,High Risk
+Turkiye,2016,18.466666,4,High Risk
+Brazil,2016,16.993333,5,High Risk
+Russian Federation,2016,15.603333,6,Vulnerable
+India,2016,13.143333,7,Vulnerable
+Italy,2016,12.153333,8,Vulnerable
+France,2016,10.470000,9,Vulnerable
+Indonesia,2016,9.713333,10,Vulnerable
+Canada,2016,8.490000,11,Vulnerable
+Australia,2016,7.710000,12,Stable
+Saudi Arabia,2016,7.530000,13,Stable
+Mexico,2016,7.513333,14,Stable
+United Kingdom,2016,6.563333,15,Stable
+United States,2016,6.440000,16,Stable
+China,2016,6.400000,17,Stable
+Germany,2016,5.200000,18,High Welfare
+Japan,2016,4.510000,19,High Welfare
+"Korea, Rep.",2016,4.410000,20,High Welfare
+Switzerland,2016,4.323333,21,High Welfare
+South Africa,2017,31.680000,1,High Risk
+Greece,2017,22.816666,2,High Risk
+Spain,2017,20.060000,3,High Risk
+Turkiye,2017,19.570000,4,High Risk
+Brazil,2017,18.043333,5,High Risk
+Russian Federation,2017,14.233333,6,Vulnerable
+India,2017,12.020000,7,Vulnerable
+Italy,2017,11.993333,8,Vulnerable
+France,2017,10.356666,9,Vulnerable
+Indonesia,2017,8.763333,10,Vulnerable
+Canada,2017,8.190000,11,Vulnerable
+Mexico,2017,7.720000,12,Stable
+Australia,2017,7.366666,13,Stable
+Saudi Arabia,2017,6.510000,14,Stable
+United Kingdom,2017,6.300000,15,Stable
+China,2017,6.236666,16,Stable
+United States,2017,6.006666,17,Stable
+Germany,2017,5.000000,18,High Welfare
+"Korea, Rep.",2017,4.823333,19,High Welfare
+Switzerland,2017,4.493333,20,High Welfare
+Japan,2017,3.493333,21,High Welfare
+Argentina,2018,43.500000,1,High Risk
+South Africa,2018,32.263333,2,High Risk
+Turkiye,2018,22.676666,3,High Risk
+Greece,2018,21.673333,4,High Risk
+Spain,2018,18.516666,5,High Risk
+Brazil,2018,17.516666,6,Vulnerable
+Italy,2018,11.906666,7,Vulnerable
+India,2018,11.703333,8,Vulnerable
+France,2018,10.516666,9,Vulnerable
+Russian Federation,2018,9.766666,10,Vulnerable
+Canada,2018,8.203333,11,Vulnerable
+Mexico,2018,8.103333,12,Stable
+Indonesia,2018,7.670000,13,Stable
+Australia,2018,7.260000,14,Stable
+Saudi Arabia,2018,7.070000,15,Stable
+United Kingdom,2018,6.470000,16,Stable
+China,2018,6.333333,17,Stable
+United States,2018,6.320000,18,High Welfare
+"Korea, Rep.",2018,5.170000,19,High Welfare
+Switzerland,2018,5.156666,20,High Welfare
+Germany,2018,4.996666,21,High Welfare
+Japan,2018,3.253333,22,High Welfare
+Argentina,2019,53.445000,1,High Risk
+South Africa,2019,32.073333,2,High Risk
+Turkiye,2019,26.086666,3,High Risk
+Greece,2019,19.880000,4,High Risk
+Spain,2019,16.970000,5,High Risk
+Brazil,2019,15.966666,6,Vulnerable
+Italy,2019,11.536666,7,Vulnerable
+India,2019,10.930000,8,Vulnerable
+France,2019,10.276666,9,Vulnerable
+Russian Federation,2019,8.550000,10,Vulnerable
+Mexico,2019,8.253333,11,Vulnerable
+Canada,2019,7.926666,12,Stable
+Indonesia,2019,7.266666,13,Stable
+Australia,2019,7.180000,14,Stable
+China,2019,6.633333,15,Stable
+United Kingdom,2019,6.296666,16,Stable
+United States,2019,6.103333,17,Stable
+Saudi Arabia,2019,6.003333,18,High Welfare
+Switzerland,2019,5.243333,19,High Welfare
+"Korea, Rep.",2019,5.006666,20,High Welfare
+Germany,2019,5.003333,21,High Welfare
+Japan,2019,3.193333,22,High Welfare
+Argentina,2020,53.456666,1,High Risk
+South Africa,2020,32.146666,2,High Risk
+Turkiye,2020,27.210000,3,High Risk
+Greece,2020,17.253333,4,High Risk
+Brazil,2020,16.190000,5,High Risk
+Spain,2020,15.646666,6,Vulnerable
+India,2020,12.103333,7,Vulnerable
+Italy,2020,10.406666,8,Vulnerable
+France,2020,9.626666,9,Vulnerable
+Canada,2020,8.710000,10,Vulnerable
+Russian Federation,2020,8.576666,11,Vulnerable
+Saudi Arabia,2020,7.993333,12,Stable
+Mexico,2020,7.713333,13,Stable
+China,2020,7.086666,14,Stable
+Australia,2020,7.080000,15,Stable
+United States,2020,7.033333,16,Stable
+Indonesia,2020,6.796666,17,Stable
+United Kingdom,2020,5.763333,18,High Welfare
+Switzerland,2020,4.830000,19,High Welfare
+"Korea, Rep.",2020,4.633333,20,High Welfare
+Germany,2020,4.580000,21,High Welfare
+Japan,2020,3.023333,22,High Welfare
+Argentina,2021,58.006666,1,High Risk
+South Africa,2021,34.550000,2,High Risk
+Turkiye,2021,28.636666,3,High Risk
+Brazil,2021,18.013333,4,High Risk
+Spain,2021,16.003333,5,High Risk
+Greece,2021,15.943333,6,Vulnerable
+India,2021,12.076666,7,Vulnerable
+Italy,2021,10.303333,8,Vulnerable
+Russian Federation,2021,9.806666,9,Vulnerable
+Canada,2021,9.650000,10,Vulnerable
+France,2021,9.173333,11,Vulnerable
+Saudi Arabia,2021,8.386666,12,Stable
+United States,2021,8.270000,13,Stable
+Mexico,2021,8.223333,14,Stable
+Australia,2021,7.290000,15,Stable
+China,2021,6.803333,16,Stable
+United Kingdom,2021,6.080000,17,Stable
+Indonesia,2021,6.063333,18,High Welfare
+Germany,2021,5.096666,19,High Welfare
+"Korea, Rep.",2021,4.913333,20,High Welfare
+Switzerland,2021,4.810000,21,High Welfare
+Japan,2021,2.730000,22,High Welfare
+Argentina,2022,63.286666,1,High Risk
+Turkiye,2022,46.590000,2,High Risk
+South Africa,2022,37.130000,3,High Risk
+Brazil,2022,18.960000,4,High Risk
+Spain,2022,18.210000,5,High Risk
+Greece,2022,17.536666,6,Vulnerable
+Russian Federation,2022,12.683333,7,Vulnerable
+India,2022,12.503333,8,Vulnerable
+Italy,2022,12.230000,9,Vulnerable
+Canada,2022,11.130000,10,Vulnerable
+United States,2022,10.326666,11,Vulnerable
+France,2022,10.173333,12,Stable
+Saudi Arabia,2022,9.590000,13,Stable
+Mexico,2022,9.570000,14,Stable
+Australia,2022,8.480000,15,Stable
+United Kingdom,2022,8.176666,16,Stable
+Germany,2022,6.896666,17,Stable
+China,2022,6.633333,18,High Welfare
+Indonesia,2022,6.413333,19,High Welfare
+"Korea, Rep.",2022,6.186666,20,High Welfare
+Switzerland,2022,5.546666,21,High Welfare
+Japan,2022,3.493333,22,High Welfare
+Argentina,2023,92.003333,1,High Risk
+Turkiye,2023,59.196666,2,High Risk
+South Africa,2023,39.040000,3,High Risk
+Spain,2023,18.376666,4,High Risk
+Brazil,2023,17.503333,5,High Risk
+Greece,2023,17.480000,6,Vulnerable
+Italy,2023,13.630000,7,Vulnerable
+Russian Federation,2023,12.666666,8,Vulnerable
+France,2023,11.416666,9,Vulnerable
+India,2023,10.950000,10,Vulnerable
+Canada,2023,10.770000,11,Vulnerable
+United Kingdom,2023,9.963333,12,Stable
+United States,2023,9.820000,13,Stable
+Mexico,2023,9.723333,14,Stable
+Australia,2023,9.156666,15,Stable
+Germany,2023,8.563333,16,Stable
+Saudi Arabia,2023,8.026666,17,Stable
+"Korea, Rep.",2023,6.786666,18,High Welfare
+Indonesia,2023,6.680000,19,High Welfare
+Switzerland,2023,6.243333,20,High Welfare
+China,2023,5.793333,21,High Welfare
+Japan,2023,4.520000,22,High Welfare
+Argentina,2024,148.630000,1,High Risk
+Turkiye,2024,71.110000,2,High Risk
+South Africa,2024,38.376666,3,High Risk
+Spain,2024,17.100000,4,High Risk
+Greece,2024,16.440000,5,High Risk
+Brazil,2024,14.073333,6,Vulnerable
+Russian Federation,2024,12.473333,7,Vulnerable
+Italy,2024,12.333333,8,Vulnerable
+France,2024,11.380000,9,Vulnerable
+India,2024,10.153333,10,Vulnerable
+United Kingdom,2024,10.046666,11,Vulnerable
+Canada,2024,10.036666,12,Stable
+Mexico,2024,8.953333,13,Stable
+Australia,2024,8.900000,14,Stable
+United States,2024,8.793333,15,Stable
+Germany,2024,8.230000,16,Stable
+Indonesia,2024,6.710000,17,Stable
+Saudi Arabia,2024,6.536666,18,High Welfare
+"Korea, Rep.",2024,6.440000,19,High Welfare
+Switzerland,2024,6.180000,20,High Welfare
+China,2024,5.553333,21,High Welfare
+Japan,2024,5.406666,22,High Welfare
