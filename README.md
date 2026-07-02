@@ -152,8 +152,12 @@ La Grèce, l’Espagne, la France, et l’Allemagne manquaient les données sur 
 
 **La Turquie:**
 
+Les données sur le taux d’ intérêt réel de la Turquie étaient manquantes en raison des politiques divergentes et des incohérences de rapports. La Banque Centrale de la République Turque et l’Institut Statistique de la Turquie ne maintiennent pas toujours une circulation des données ininterrompue ajustée aux modèles spécifiques d’indice de la Banque Mondiale. Additionnellement, depuis 2018, la Turquie mène une politique de taux d’intérêt réel négatif résultant des valeurs extrêmes qui sont occasionnellement exclues des chaînes internationales afin de préserver la cohérence globale des données. Afin d’obtenir ces données indispensables, les taux hebdomadaires des pensions de la Banque Centrale de la République Turque ont été utilisés pour calculer les taux d’intérêt nominaux. Les versions ajustées de ces valeurs avec l’inflation ont été intégrées à l’ensemble des données.
+
 
 **Les Etats-Unis:**
+
+
 
 ### 4) SQL
 
