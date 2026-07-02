@@ -66,9 +66,11 @@ France, Spain, Greece, and Germany lacked real interest rate data. The reason fo
 
 **Turkiye:**
 
-
+Turkiye’s real interest rate data was missing as a result of divergent policies and reporting inconsistencies. Turkiye’s Central Bank (TCMB) and Turkish Statistical Institute do not always provide uninterrupted data flow tailored to the World Bank’s specific index templates. Furthermore, since 2018, Turkiye has pursued negative real interest rate policy resulting in extreme values which are occasionally omitted from international channels in order to preserve data consistency. To obtain indispensable real interest rate data, Central Bank of the Republic of Turkiye’s weekly repo auction rates were utilized to compute nominal interest rates. These values’ inflation-adjusted versions were attached to the dataset. 
 
 **the USA:**
+
+
 
 ### 4) SQL
 
