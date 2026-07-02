@@ -58,11 +58,18 @@ This phase incorporates NA handling and data standardization which were carried 
 
 **NA Handling**
 
-The dataset contained null values, against which taking actions necessitated an overview of what data exactly represented. Accordingly, each NA handling procedure was considered. To preserve data integrity, and because of macroeconomic datasets' unpredictable nature; predictive imputation was not applied. Instead, research methods were used for some countries’ missing values, since the opportunity cost of investigating each null value would be much higher than executing imputation only on key countries’ variables. Therefore; NA values of Greece, Spain, France, Germany, Turkiye, and US were rigorously replaced by actual data:
+The dataset contained null values, against which taking actions necessitated an overview of what data exactly represented. Accordingly, each NA handling procedure was considered. To preserve data integrity, and because of macroeconomic datasets' unpredictable nature; predictive imputation was not applied. Instead, research methods were used for some countries’ missing values, since the opportunity cost of investigating each null value would be much higher than executing imputation only on key countries’ variables. Therefore; NA values of Greece, Spain, France, Germany, Turkiye, and the USA were rigorously replaced by actual data:
 
 **European Countries (Greece / Spain / France / Germany):**
 
-France, Spain, Greece, and Germany lacked real interest rate data. The reason for such a case is that there is a discrepancy between Euro common monetary policy and IMF’s lending rate standards. To resolve this, the raw data of immediate nominal interest rates for European countries was obtained from FRED (Federal Reserve Bank of Saint Louis), and it was adjusted by substracting inflation rate to derive real interest rates. 
+France, Spain, Greece, and Germany lacked real interest rate data. The reason for such a case is that there is a discrepancy between Euro common monetary policy and IMF’s lending rate standards. To resolve this, the raw data of immediate nominal interest rates for European countries was obtained from FRED (Federal Reserve Bank of Saint-Louis), and it was adjusted by subtracting inflation rate to derive real interest rates. 
+
+**Turkiye:**
+
+
+
+**the USA:**
+
 
  *The detailed analysis report is currently being constructed.*
 
@@ -123,7 +130,16 @@ Cette phase comprend la manipulation des NA’s et la standardisation qui ont é
 
 ***Traitement des Valeurs Manquantes***
 
-L’ensemble de données contenait des valeurs nulles contre lesquelles prendre des mesures a nécessité un aperçu général de ce que représentent les données, exactement. Convenablement, chaque procédure de traitement des valeurs manquantes a été considérée. Afin de préserver l’intégrité de données, et en raison de la nature imprédictible des données macroéconomiques, l’imputation prédictive n’a pas été appliquée. Au lieu de cette démarche, les méthodes d’investigation ont été utilisées pour les valeurs manquantes de certains pays, puisque le coût d’opportunité d’examiner chaque valeur nulle serait plus élevé que d’exécuter l’imputation seulement sur les variables des pays clé. Dans cette optique, les valeurs vides de la Grèce, de l’Espagne, de la France, de l’Allemagne, de la Turquie, et des Etats-Unis ont été rigoureusement replacées par les données exactes. 
+L’ensemble de données contenait des valeurs nulles contre lesquelles prendre des mesures a nécessité un aperçu général de ce que représentent les données, exactement. Convenablement, chaque procédure de traitement des valeurs manquantes a été considérée. Afin de préserver l’intégrité de données, et en raison de la nature imprédictible des données macroéconomiques, l’imputation prédictive n’a pas été appliquée. Au lieu de cette démarche, les méthodes d’investigation ont été utilisées pour les valeurs manquantes de certains pays, puisque le coût d’opportunité d’examiner chaque valeur nulle serait plus élevé que d’exécuter l’imputation seulement sur les variables des pays clé. Dans cette optique, les valeurs vides de la Grèce, de l’Espagne, de la France, de l’Allemagne, de la Turquie, et des Etats-Unis ont été rigoureusement replacées par les données exactes:
+
+**Les Pays Européens (Grèce / Espagne / France / Allemagne):**
+
+La Grèce, l’Espagne, la France, et l’Allemagne manquaient les données sur le taux d’intérêt réel en raison d’une discordance entre la politique monétaire commune de la zone euro et les standards de taux de prêt de FMI. Afin de résoudre cet enjeu, les données brutes des pays européens sur le taux d’intérêt nominal immédiat ont été obtenues auprès de FRED (Banque Fédérale de Réserve de Saint-Louis). Elles ont aussi été ajustées en y soustrayant le taux d’inflation pour obtenir le taux d’intérêt réel.
+
+**La Turquie:**
+
+
+**Les Etats-Unis:**
 
 *Le rapport d'analyse détaillé est en cours de rédaction.*
 
