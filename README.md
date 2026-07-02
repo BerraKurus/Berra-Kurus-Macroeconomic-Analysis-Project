@@ -40,6 +40,25 @@ Various tools and technologies were utilized in order for this project to turn o
 - **SQL:** Data Analysis / Correlations / Comparisons
 - **Tableau:** Data Visualization
 
+### 3) R
+
+***Installed Packages***
+
+WDI: Data retrieval
+tidyverse: Data cleaning / Standardization
+
+***Data Retrieval***
+
+Data was retrieved programmatically using the World Bank API via the WDI package in RStudio, ensuring an automated data pipeline.
+
+***Data Cleaning***
+
+This phase incorporates NA handling and data standardization which were carried out via tidyverse package’s functions in RStudio. 
+
+**NA Handling**
+
+The dataset contained null values, against which taking actions necessitated an overview of what data exactly represented. Accordingly, each NA handling procedure was considered. To preserve data integrity, and because of macroeconomic datasets' unpredictable nature; predictive imputation was not applied. Instead, research methods were used for some countries’ missing values, since the opportunity cost of investigating each null value would be much higher than executing imputation only on key countries’ variables. Therefore; NA values of Greece, Spain, France, Germany, Turkiye, and US were rigorously replaced by actual data.
+
  *The detailed analysis report is currently being constructed.*
 
 </details>
