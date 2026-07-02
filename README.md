@@ -58,7 +58,11 @@ This phase incorporates NA handling and data standardization which were carried 
 
 **NA Handling**
 
-The dataset contained null values, against which taking actions necessitated an overview of what data exactly represented. Accordingly, each NA handling procedure was considered. To preserve data integrity, and because of macroeconomic datasets' unpredictable nature; predictive imputation was not applied. Instead, research methods were used for some countries’ missing values, since the opportunity cost of investigating each null value would be much higher than executing imputation only on key countries’ variables. Therefore; NA values of Greece, Spain, France, Germany, Turkiye, and US were rigorously replaced by actual data.
+The dataset contained null values, against which taking actions necessitated an overview of what data exactly represented. Accordingly, each NA handling procedure was considered. To preserve data integrity, and because of macroeconomic datasets' unpredictable nature; predictive imputation was not applied. Instead, research methods were used for some countries’ missing values, since the opportunity cost of investigating each null value would be much higher than executing imputation only on key countries’ variables. Therefore; NA values of Greece, Spain, France, Germany, Turkiye, and US were rigorously replaced by actual data:
+
+**European Countries (Greece / Spain / France / Germany):**
+
+France, Spain, Greece, and Germany lacked real interest rate data. The reason for such a case is that there is a discrepancy between Euro common monetary policy and IMF’s lending rate standards. To resolve this, the raw data of immediate nominal interest rates for European countries was obtained from FRED (Federal Reserve Bank of Saint Louis), and it was adjusted by substracting inflation rate to derive real interest rates. 
 
  *The detailed analysis report is currently being constructed.*
 
