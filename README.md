@@ -45,6 +45,7 @@ Various tools and technologies were utilized in order for this project to turn o
 ***Installed Packages***
 
 WDI: Data retrieval
+
 tidyverse: Data cleaning / Standardization
 
 ***Data Retrieval***
