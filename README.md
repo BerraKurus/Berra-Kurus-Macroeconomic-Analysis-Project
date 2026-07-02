@@ -35,6 +35,10 @@ This analysis is based on an interval of 15 years, commencing from 2010, proceed
 
 Various tools and technologies were utilized in order for this project to turn out successfully observable. These include the following programs:
 
+- **R Programming Language:** Data Retrieval / Data Cleaning
+- **Docker / DBeaver:** Database Hosting (Microsoft SQL Server) / Database Management
+- **SQL:** Data Analysis / Correlations / Comparisons
+- **Tableau:** Data Visualization
 
  *The detailed analysis report is currently being constructed.*
 
