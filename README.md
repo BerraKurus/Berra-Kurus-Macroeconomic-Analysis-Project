@@ -35,7 +35,7 @@ This analysis is based on an interval of 15 years, commencing from 2010, proceed
 
 Various tools and technologies were utilized in order for this project to turn out successfully observable. These include the following programs:
 
-- **R Programming Language:** Data Retrieval / Data Cleaning
+- **R Programming Language:** Data Retrieval via API / Data Cleaning
 - **Docker / DBeaver:** Database Hosting (Microsoft SQL Server) / Database Management
 - **SQL:** Data Analysis / Correlations / Comparisons
 - **Tableau:** Data Visualization
@@ -70,8 +70,16 @@ Cette analyse est basée sur un intervalle de 15 années, commençant de 2010, c
 
 -	2010 a été déterminé comme l’année de début afin que les effets de la crise financière mondiale de 2008 soient observable.
 -	Les années de la pandémie ont aussi été incorporées dans l’analyse, avec le but d’identifier les enjeux économiques provenant d’une période si violente et volatile.
--	2024 a été désigné comme la fin de l’intervalle à cause du fait que les informations de la plupart des pays à propos de l’année 2025 sont encore absentes, comme elles ne sont pas encore finalisées. 
+-	2024 a été désigné comme la fin de l’intervalle à cause du fait que les informations de la plupart des pays à propos de l’année 2025 sont encore absentes, comme elles ne sont pas encore finalisées.
 
+### 2) TECHNOLOGIES / INFRASTRUCTURE
+
+Plusieurs outils et technologies ont été mobilisés pour mener à bien ce projet Ces programmes sont les suivants:
+
+- **Langage R:** Extraction de Données via API / Nettoyage de Données
+- **Docker / DBeaver:** Hébergement de Base de Données (Microsoft SQL Server) / Gestion de Données
+- **SQL:** Analyse des Données / Corrélations / Comparaisons
+- **Tableau:** Visualisation des Données
 
 *Le rapport d'analyse détaillé est en cours de rédaction.*
 
