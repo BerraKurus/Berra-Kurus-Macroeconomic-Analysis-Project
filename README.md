@@ -101,6 +101,26 @@ Plusieurs outils et technologies ont été mobilisés pour mener à bien ce proj
 - **SQL:** Analyse des Données / Corrélations / Comparaisons
 - **Tableau:** Visualisation des Données
 
+### 3) R
+
+***Les Paquets Installés***
+
+WDI: Extraction des données
+
+tidyverse: Nettoyage des données / Standardisation
+
+***Extraction des Données***
+
+Les données ont été extraites systématiquement en utilisant API de la Banque Mondiale via le paquet “WDI” en RStudio, garantissant un pipeline de données automatisé.
+
+***Nettoyage des Données***
+
+Cette phase comprend la manipulation des NA’s et la standardisation qui ont été exécutées grâce au paquet « tidyverse ».
+
+***Traitement des Valeurs Manquantes***
+
+L’ensemble de données contenait des valeurs nulles contre lesquelles prendre des mesures a nécessité un aperçu général de ce que représentent les données, exactement. Convenablement, chaque procédure de traitement des valeurs manquantes a été considérée. Afin de préserver l’intégrité de données, et en raison de la nature imprédictible des données macroéconomiques, l’imputation prédictive n’a pas été appliquée. Au lieu de cette démarche, les méthodes d’investigation ont été utilisées pour les valeurs manquantes de certains pays, puisque le coût d’opportunité d’examiner chaque valeur nulle serait plus élevé que d’exécuter l’imputation seulement sur les variables des pays clé. Dans cette optique, les valeurs vides de la Grèce, de l’Espagne, de la France, de l’Allemagne, de la Turquie, et des Etats-Unis ont été rigoureusement replacées par les données exactes. 
+
 *Le rapport d'analyse détaillé est en cours de rédaction.*
 
 </details>
