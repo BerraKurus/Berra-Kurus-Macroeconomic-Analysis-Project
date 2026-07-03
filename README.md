@@ -148,7 +148,7 @@ Cette phase comprend la manipulation des NA’s et la standardisation qui ont é
 
 ***Traitement des Valeurs Manquantes***
 
-L’ensemble de données contenait des valeurs nulles contre lesquelles prendre des mesures a nécessité un aperçu général de ce que représentent les données, exactement. Convenablement, chaque procédure de traitement des valeurs manquantes a été considérée. Afin de préserver l’intégrité de données, et en raison de la nature imprédictible des données macroéconomiques, l’imputation prédictive n’a pas été appliquée. Au lieu de cette démarche, les méthodes d’investigation ont été utilisées pour les valeurs manquantes de certains pays, puisque le coût d’opportunité d’examiner chaque valeur nulle serait plus élevé que d’exécuter l’imputation seulement sur les variables des pays clé. Dans cette optique, les valeurs vides de la Grèce, de l’Espagne, de la France, de l’Allemagne, de la Turquie, et des Etats-Unis ont été rigoureusement replacées par les données exactes:
+L’ensemble de données contenait des valeurs nulles contre lesquelles prendre des mesures a nécessité un aperçu général de ce que représentent les données, exactement. Convenablement, chaque procédure de traitement des valeurs manquantes a été considérée. Afin de préserver l’intégrité de données, et en raison de la nature imprédictible des données macroéconomiques, l’imputation prédictive n’a pas été appliquée. Au lieu de cette démarche, les méthodes d’investigation ont été utilisées pour les valeurs manquantes de certains pays, puisque le coût d’opportunité d’examiner chaque valeur nulle serait plus élevé que d’exécuter l’imputation seulement sur les variables des pays clé. Dans cette optique, les valeurs vides de la Grèce, de l’Espagne, de la France, de l’Allemagne, de la Turquie, et des États-Unis ont été rigoureusement replacées par les données exactes:
 
 **Les Pays Européens (Grèce / Espagne / France / Allemagne):**
 
@@ -158,9 +158,13 @@ La Grèce, l’Espagne, la France, et l’Allemagne manquaient les données sur 
 
 Les données sur le taux d’ intérêt réel de la Turquie étaient manquantes en raison des politiques divergentes et des incohérences de rapports. La Banque Centrale de la République Turque et l’Institut Statistique de la Turquie ne maintiennent pas toujours une circulation des données ininterrompue ajustée aux modèles spécifiques d’indice de la Banque Mondiale. Additionnellement, depuis 2018, la Turquie mène une politique de taux d’intérêt réel négatif résultant des valeurs extrêmes qui sont occasionnellement exclues des chaînes internationales afin de préserver la cohérence globale des données. Afin d’obtenir ces données indispensables, les taux hebdomadaires des pensions de la Banque Centrale de la République Turque ont été utilisés pour calculer les taux d’intérêt nominaux. Les versions ajustées de ces valeurs avec l’inflation ont été intégrées à l’ensemble des données.
 
+**Les États-Unis:**
 
-**Les Etats-Unis:**
+Les données des États-Unis sur le taux d’intérêt réel étaient manquantes dans l’ensemble initial de données. Afin de surmonter cet enjeu, le graphique annuel du taux d’intérêt réel a été extrait de FRED. Il y existait une discordance entre les données affichées sur le graphique et les données de la Banque Mondiale. Néanmoins, un parallélisme clair se trouvait dans l’ampleur des hausses et des baisses en glissement annuel entre les deux sources. C’était la raison pour laquelle la méthode de projection delta a été utilisée pour que les données manquantes des années 2022, 2023, et 2024 aient été calculées à partir du graphique de FRED. 
 
+***Standardisation***
+
+Afin d’atteindre la standardisation, de maintenir la consistance, et d’améliorer la lisibilité ; tous les nombres décimaux ont été arrondis à deux décimales. Ultérieurement, la version nettoyée et standardisée de l’ensemble initial de données a été exportée sous forme de CSV pour être ensuite analysée via SQL.
 
 
 ### 4) SQL
