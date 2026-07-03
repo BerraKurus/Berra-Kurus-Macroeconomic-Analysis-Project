@@ -70,7 +70,11 @@ Turkiye’s real interest rate data was missing as a result of divergent policie
 
 **the USA:**
 
+The USA’s 3-year real interest rate data was missing from the initial dataset. To overcome this issue, 1-year annual real interest rate graph was obtained from FRED. There was a discrepancy between the data displayed on the graph and the data of the World Bank. However, a clear parallelism existed in the magnitude of year-over-year increases and decreases between the two sources. Therefore, delta projection method was utilized in order to compute the missing data of 2022, 2023, and 2024 based on FRED’s data.
 
+***Standardization***
+
+To achieve standardization, maintain consistency, and improve readability; all decimal numbers were rounded to two decimal places. Subsequently, the cleaned and standardized version of the initial dataset was exported as a CSV file in order to be queried via SQL.
 
 ### 4) SQL
 
