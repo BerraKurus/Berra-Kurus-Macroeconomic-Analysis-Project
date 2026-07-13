@@ -84,11 +84,43 @@ To achieve standardization, maintain consistency, and improve readability; all d
 
 **[Click here to see "Gdp Growth Analyses" dashboard](https://public.tableau.com/views/GdpGrowthAnalyses/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
+**Dashboard Explanation**
+
+This dashboard incorporates 5 graphs, 3 of which leverage sheet swapping method for a dynamic user experience. 
+
+**Share of GDP Growth per Country on Total GDP across Years (Top Left):** 
+
+It was intended to find out the contribution of each country to the global growth in order to identify fastest-growing countries around the world.
+
+**Average GDP Growth per Country (Bottom Left):**
+
+This bar chart monitors countries with high and low GDP’s relative to the average global growth reference line.
+
+*Sheet swapping technique encompasses 3 visualizations under the title of “Correlation Graphs” as they unfold relationships between different agents.*
+
+**Current Account vs GDP Growth:**
+
+This line chart was built to display how GDP growth and current account shift simultaneously. Filters for year and country ensure a broader analysis. Especially, by filtering down the years to 2019 and 2021, pandemic-era dynamics could be revealed by pivoting on current account increase despite GDP contractions, as imports decreased more than exports during that specific period.
+
+**GDP Growth vs Real Interest Rate:**
+
+This scatter plot seeks to identify outlier countries deviating from the expected directly proportional relationship between real interest rate and GDP growth.
+
+**GDP Growth vs Unemployment:**
+
+This scatter plot displays inversely proportional relationship between GDP growth and unemployment rate with an integrated trend line.
+
 
 ***Macroeconomic Analyses***
 
 **[Click here to see "Macroeconomic Analyses" dashboard](https://public.tableau.com/views/MacroeconomicAnalyses/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
- 
+
+ **Dashboard Explanation**
+
+
+
+
+
  *The detailed analysis report is currently being constructed.*
 
 </details>
