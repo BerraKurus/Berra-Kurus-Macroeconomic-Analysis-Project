@@ -78,9 +78,11 @@ To achieve standardization, maintain consistency, and improve readability; all d
 
 ### 4) SQL
 
+*A detailed analysis is being constructed.*
+
 ### 5) TABLEAU
 
-***Gdp Growth Analyses***
+***1) Gdp Growth Analyses***
 
 **[Click here to see "Gdp Growth Analyses" dashboard](https://public.tableau.com/views/GdpGrowthAnalyses/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
@@ -110,8 +112,7 @@ This scatter plot seeks to identify outlier countries deviating from the expecte
 
 This scatter plot displays inversely proportional relationship between GDP growth and unemployment rate with an integrated trend line.
 
-
-***Macroeconomic Analyses***
+***2) Macroeconomic Analyses***
 
 **[Click here to see "Macroeconomic Analyses" dashboard](https://public.tableau.com/views/MacroeconomicAnalyses/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
@@ -201,17 +202,45 @@ Afin d’atteindre la standardisation, de maintenir la consistance, et d’amél
 
 ### 4) SQL
 
+*Une analyse détaillée est en train de se construire.*
 
 ### 5) TABLEAU
 
-***Les Analyses de la Croissance du PIB***
+***1) Les Analyses de la Croissance du PIB***
 
 **[Cliquez pour voir le dashboard "Les Analyses de la Croissance du PIB"](https://public.tableau.com/views/GdpGrowthAnalyses/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
+**Explication du Tableau de Bord:**
 
-***Les Analyses Macroéconomiques***
+Ce tableau de bord incorpore 5 graphiques, dont 3 profitent de la technique de sheet swapping pour une expérience dynamique d’utilisateur. 
+
+**Le Partage de la Croissance du PIB par pays sur le PIB Total à travers des Années (Coin Supérieur à Gauche):**
+
+Ce diagramme circulaire a été construit pour identifier les pays qui croissent plus rapidement dans le monde en prenant en compte la contribution de chaque pays à la croissance globale.
+
+**La Croissance Moyenne du PIB par Pays (Coin Inférieur à Gauche):**
+
+Ce graphique en barres permet de situer les pays ayant une croissance supérieure ou inférieure par rapport à la ligne de référence de la croissance globale moyenne.
+
+*La technique de sheet swapping encadre 3 visualisations sous le titre de « Graphiques de Corrélation » puisqu’elles révèlent les relations entre des agents différents.*
+
+**Compte Courant vs Croissance du PIB:**
+
+Ce graphique linéaire a été construit afin de représenter comment la croissance du PIB et le compte courant varient simultanément. Les filtres pour l’année et pour le pays permettent une analyse plus étendue. Spécifiquement, en filtrant les années à 2019-2021, les dynamiques de l’ère pandémique pourraient se représenter par rapport à l’amélioration du compte courant malgré les contractions du PIB, puisque les importations ont diminué plus que les exportations pendant cette période spécifique.
+
+**Croissance du PIB vs Taux d’Intérêt Réel:**
+
+Ce diagramme de dispersion vise à identifier les pays aberrants déviant de la relation prévue comme directement proportionnelle entre la croissance du PIB et le taux d’intérêt réel. 
+
+**Croissance du PIB vs Chômage:**
+
+Ce diagramme de dispersion met en évidence la relation inverse entre la croissance du PIB et le chômage en y intégrant une courbe de tendance. 
+
+***2) Les Analyses Macroéconomiques***
 
 **[Cliquez pour voir le dashboard "Les Analyses Macroéconomiques"](https://public.tableau.com/views/MacroeconomicAnalyses/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+**Explication du Tableau de Bord:**
 
 
 *Le rapport d'analyse détaillé est en cours de rédaction.*
