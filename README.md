@@ -82,7 +82,7 @@ To achieve standardization, maintain consistency, and improve readability; all d
 
 **[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/gdp_current_account_relationship.sql)**
 
-**b) Increase in Inflation**
+**b) When does the Inflation Increase?**
 
 **[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/increase_in_inflation.sql)**
 
@@ -209,6 +209,14 @@ Afin d’atteindre la standardisation, de maintenir la consistance, et d’amél
 
 
 ### 4) SQL
+
+**a) Croissance du PIB vs Compte Courant**
+
+**[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/gdp_current_account_relationship.sql)**
+
+**b) Quand est- ce que le taux d'inflation augmente?**
+
+**[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/increase_in_inflation.sql)**
 
 *Une analyse détaillée est en train de se construire.*
 
