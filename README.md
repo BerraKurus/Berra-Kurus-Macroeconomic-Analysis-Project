@@ -148,6 +148,30 @@ This scatter plot displays inversely proportional relationship between GDP growt
 
  **Dashboard Explanation**
 
+This dashboard incorporates 5 graphs, 4 of which leverage sheet swapping method in order for more graphs to be represented in one page. 
+
+**Average Current Account per Country for 15 Years (Top Right):**
+
+This rounded bar chart aims to determine average current account per country for 15 years. Colour scale was also designed for a better comprehension of high-level and low-level countries in terms of current account rates. Switzerland turned out to be the best-ranking country among 22 countries, whilst Greece has the lowest rate of average current account. 
+
+*Sheet swapping technique encompasses 4 visualizations under the title of “Graphs about Inflation and Unemployment” as they unfold dynamics regarding inflation and unemployment rates.*
+
+**Relationship between Unemployment and Youth Unemployment per Country for each Year:**
+
+This line chart was built to display the relationship between unemployment and youth unemployment rates. Also, the filters for country and year could be utilized for a more specific analysis. For instance, the countries prioritizing older workers over younger ones during severe periods like pandemics could be identified.
+
+**Average Real Interest Rate and Inflation per Country:**
+
+This butterfly chart represents real interest and inflation rates data simultaneously. Accordingly, Argentina has the highest rate of inflation, and Brazil’s average real interest rate is the highest; whereas Switzerland has the lowest rate of average inflation, and Argentina is the lowest-ranking country in terms of average real interest rate.
+
+**Welfare Levels per Country for each Year:**
+
+This coloured scheme displays welfare levels of countries for each year which were calculated based on a misery index. 4 colours represent high risk, vulnerable, stable, and high welfare countries.
+
+**Bubble Chart for Inflation Rates per Country for each Year:**
+
+This bubble chart permits the viewers to quickly identify the countries and years with the highest rates of inflation based on the size of the circles. The biggest circle belongs to Argentina in 2024.
+
  *The detailed analysis report is currently being constructed.*
 
 </details>
