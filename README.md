@@ -82,9 +82,31 @@ To achieve standardization, maintain consistency, and improve readability; all d
 
 **[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/gdp_current_account_relationship.sql)**
 
+**[Click here to view the SQL table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/gdp_current_account_table.csv)**
+
 **b) When does the Inflation Increase?**
 
 **[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/increase_in_inflation.sql)**
+
+**[Click here to view the SQL table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/increase_in_inflation_table.csv)**
+
+**c) Inflation vs Global Inflation**
+
+**[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/inflation_vs_global_inflation.sql)**
+
+**[Click here to view the SQL table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/Inflation_vs_global_inf_table.csv)**
+
+**d) Unemployment Analysis**
+
+**[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/unemployment_analysis.sql)**
+
+**[Click here to view the SQL table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/unemployment_analysis_table.csv)**
+
+**e) Welfare Levels of Countries**
+
+**[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/welfare_levels.sql)**
+
+**[Click here to view the SQL table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/welfare_levels_table.csv)**
 
 *A detailed analysis is being constructed.*
 
@@ -125,10 +147,6 @@ This scatter plot displays inversely proportional relationship between GDP growt
 **[Click here to see "Macroeconomic Analyses" dashboard](https://public.tableau.com/views/MacroeconomicAnalyses/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
  **Dashboard Explanation**
-
-
-
-
 
  *The detailed analysis report is currently being constructed.*
 
@@ -214,9 +232,31 @@ Afin d’atteindre la standardisation, de maintenir la consistance, et d’amél
 
 **[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/gdp_current_account_relationship.sql)**
 
+**[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/gdp_current_account_table.csv)**
+
 **b) Quand est- ce que le taux d'inflation augmente?**
 
 **[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/increase_in_inflation.sql)**
+
+**[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/increase_in_inflation_table.csv)**
+
+**c) Inflation vs Inflation Globale**
+
+**[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/inflation_vs_global_inflation.sql)**
+
+**[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/Inflation_vs_global_inf_table.csv)**
+
+**d) Analyse de Chômage**
+
+**[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/unemployment_analysis.sql)**
+
+**[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/unemployment_analysis_table.csv)**
+
+**e) Niveaux de bien-être des Pays**
+
+**[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/welfare_levels.sql)**
+
+**[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/welfare_levels_table.csv)**
 
 *Une analyse détaillée est en train de se construire.*
 
