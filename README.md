@@ -78,6 +78,10 @@ To achieve standardization, maintain consistency, and improve readability; all d
 
 ### 4) SQL
 
+**a) GDP Growth vs Current Account**
+
+**[Click here to see the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/gdp_current_account_relationship.sql)**
+
 *A detailed analysis is being constructed.*
 
 ### 5) TABLEAU
