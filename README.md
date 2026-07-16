@@ -108,8 +108,8 @@ To achieve standardization, maintain consistency, and improve readability; all d
 
 **[Click here to view the SQL table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/welfare_levels_table.csv)**
 
-*A detailed analysis is being constructed.*
-
+ *The detailed analysis report is currently being constructed.*
+ 
 ### 5) TABLEAU
 
 ***1) Gdp Growth Analyses***
@@ -171,8 +171,6 @@ This coloured scheme displays welfare levels of countries for each year which we
 **Bubble Chart for Inflation Rates per Country for each Year:**
 
 This bubble chart permits the viewers to quickly identify the countries and years with the highest rates of inflation based on the size of the circles. The biggest circle belongs to Argentina in 2024.
-
- *The detailed analysis report is currently being constructed.*
 
 </details>
 
@@ -282,7 +280,7 @@ Afin d’atteindre la standardisation, de maintenir la consistance, et d’amél
 
 **[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/welfare_levels_table.csv)**
 
-*Une analyse détaillée est en train de se construire.*
+*Le rapport d'analyse détaillé est en cours de rédaction.*
 
 ### 5) TABLEAU
 
@@ -322,7 +320,29 @@ Ce diagramme de dispersion met en évidence la relation inverse entre la croissa
 
 **Explication du Tableau de Bord:**
 
+Ce tableau de bord incorpore 5 graphiques, dont 4 profitent de la technique de sheet swapping pour que plus de graphiques puissent être représentés dans une page. 
 
-*Le rapport d'analyse détaillé est en cours de rédaction.*
+**Compte Courant Moyen par Pays pendant 15 Ans (Coin Supérieur à Droite):**
+
+Cet histogramme à barres arrondies vise à déterminer le compte courant moyen par pays pendant 15 ans. L’échelle de couleur a aussi été désignée pour une meilleure compréhension des pays avec les taux hauts et bas de compte courant. La Suisse se classe au premier rang, alors que la Grèce se classe au dernier rang parmi 22 pays.
+
+*La technique de sheet swapping encadre 4 visualisations sous le titre de « Graphiques sur l’Inflation et le Chômage » puisqu’elles révèlent les dynamiques concernant les taux d’inflation et de chômage.*
+
+**Relation entre le Chômage et le Chômage des Jeunes:**
+
+Ce graphique linéaire a été construit afin de représenter la relation entre le chômage et le chômage des jeunes. De plus, les filtres interactifs par pays et par année pourraient être utilisés pour une analyse plus approfondie. Afin d’exemplifier, les pays qui favorisent les employés plus âgés au lieu des jeunes pendant les périodes sévères comme la pandémie pourraient être identifiés.
+
+**Taux d’Intérêt Réel et d’Inflation Moyens par Pays:**
+
+Ce graphique en papillon représente simultanément les données sur le taux d’intérêt réel et l’inflation. Selon cette visualisation, l’Argentine affiche le taux d’inflation moyen le plus élevé, tandis que le Brésil détient le taux d’intérêt réel moyen le plus fort. À l’inverse, la Suisse est le pays ayant l’inflation moyenne la plus basse, et l’Argentine se classe au dernier rang pour le taux d’intérêt réel moyen.
+
+**Niveaux de bien-être par Pays pour chaque Année:**
+
+Ce schéma coloré visualise les niveaux de bien-être de chaque pays pour chaque année qui ont été calculés d’après l’index de misère. 4 couleurs représentent 4 catégories: risque élevé, vulnérable, stable, bien-être élevé.
+
+**Graphique à bulles sur l’Inflation des Pays pour chaque Année:**
+
+Ce graphique à bulles permet aux observeurs d’identifier facilement et rapidement les pays et les années où les taux d’inflation sont extrêmes en regardant les grandeurs des cercles. Le plus grand cercle appartient à l’Argentine en 2024.
+
 
 </details>
