@@ -80,7 +80,11 @@ To achieve standardization, maintain consistency, and improve readability; all d
 
 **a) GDP Growth vs Current Account**
 
-**[Click here to see the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/gdp_current_account_relationship.sql)**
+**[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/gdp_current_account_relationship.sql)**
+
+**b) Increase in Inflation**
+
+**[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/increase_in_inflation.sql)**
 
 *A detailed analysis is being constructed.*
 
