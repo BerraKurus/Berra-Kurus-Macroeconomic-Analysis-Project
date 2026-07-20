@@ -115,6 +115,7 @@ This query containing a subquery was designed in order to filter and list the co
 The purpose of this query was to identify the countries with a higher structural vulnerability to youth unemployment by calculating their youth unemployment multiplier. This analysis specifically isolates country-year observations where the multiplier increased while GDP contracted. The construction includes CTE, subquery, window functions, calculations, and conditions.
 
 **Key Insights:**
+
 The phenomenon of a surging youth unemployment multiplier during periods of economic contraction is not unique to developing countries, but frequently occurs in developed European economies such as France and Spain as well. This situation provides structural evidence of how rigid labor laws in developed markets—while protecting senior employees during crises—render the young employees vulnerable.
 
 **e) Welfare Levels of Countries**
@@ -273,11 +274,19 @@ Afin d’atteindre la standardisation, de maintenir la consistance, et d’amél
 
 **[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/gdp_current_account_table.csv)**
 
+Le but de ces codes était d’observer que certains pays ont enregistré une amélioration de leur compte courant malgré une contraction de la croissance du PIB ; en utilisant CTE, sous-quêtes et les fonctions de fenêtrage. Il y a 2 raisons importantes qui donnent naissance à cette relation inversement proportionnelle pendant la période de pandémie:
+
+1- Un déclin plus net chez l’importation par rapport à l’exportation.
+
+2- Le déclin chez les taux d’investissement a pairé avec un afflux chez l’épargne de précaution à cause de l’ambiguïté de futur. 
+
 **b) Quand est- ce que le taux d'inflation augmente?**
 
 **[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/increase_in_inflation.sql)**
 
 **[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/increase_in_inflation_table.csv)**
+
+L’objectif est d’afficher les pays et les années spécifiques où le taux d'inflation a augmenté par rapport à l'année précédente. CTE et les fonctions de fenêtrage y ont été utilisés.
 
 **c) Inflation vs Inflation Globale**
 
@@ -285,17 +294,27 @@ Afin d’atteindre la standardisation, de maintenir la consistance, et d’amél
 
 **[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/Inflation_vs_global_inf_table.csv)**
 
+Les codes d’ici qui contiennent une sous-quête ont été désignés afin de filtrer et lister les pays qui maintiennent les taux d’inflation excédant la moyenne globale sur une période donnée.
+
 **d) Analyse de Chômage**
 
 **[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/unemployment_analysis.sql)**
 
 **[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/unemployment_analysis_table.csv)**
 
+L’objectif de ces codes était d’identifier les pays avec une vulnérabilité supérieure au chômage des jeunes en calculant leur multiplicateur de chômage des jeunes. Cette analyse isole spécifiquement les observations de pays-année où le multiplicateur a grandi alors que la croissance du PIB s’est contractée. La construction inclut CTE, sous-quêtes, les fonctions de fenêtrage, calculs, et conditions.
+
+**Perspectives Clés:**
+
+Le phénomène d’un multiplicateur en afflux de chômage des jeunes pendant les périodes de contractions économiques ne s’observe pas uniquement dans les pays qui sont en train de développer. Cela a lieu dans les pays développés comme la France et l’Espagne, aussi. Cette situation crée une évidence solide pour comment la législation rigide du travail dans les marchés développés -en protégeant les salariés seniors pendant les crises- rendent les employés jeunes vulnérables.
+
 **e) Niveaux de bien-être des Pays**
 
 **[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/welfare_levels.sql)**
 
 **[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/welfare_levels_table.csv)**
+
+Le but principal de ces codes était de classifier les pays en termes de leurs niveaux de bien-être qui ont été déterminés selon leurs indices de misère ( taux d’inflation + taux de chômage ). Les pays ont été gradés dans l’ordre descendant selon leurs indices de misère. Ils ont été distribués à 4 catégories de l’état de risque/bien- être en regardant leurs positions dans le rang. CTE’s, des conditions, fonctions, et sous-quêtes ont été utilisés pour cette analyse. 
 
 *Le rapport d'analyse détaillé est en cours de rédaction.*
 
