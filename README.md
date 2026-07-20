@@ -84,11 +84,19 @@ To achieve standardization, maintain consistency, and improve readability; all d
 
 **[Click here to view the SQL table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/gdp_current_account_table.csv)**
 
+It was intended to observe that some countries had a current account increase despite GDP growth decrease during pandemic years; via utilizing CTE, subquery, and window functions. There are 2 important reasons for this inversely proportional relationship during pandemics: 
+
+1- A sharper decline in imports relative to exports.
+
+2- A drop in investment rates paired with a surge in precautionary savings due to heightened future ambiguity.
+
 **b) When does the Inflation Increase?**
 
 **[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/increase_in_inflation.sql)**
 
 **[Click here to view the SQL table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/increase_in_inflation_table.csv)**
+
+This query was built to display which countries experienced a rising inflation rate during specific years. CTE and window functions were used in this case.
 
 **c) Inflation vs Global Inflation**
 
@@ -96,11 +104,18 @@ To achieve standardization, maintain consistency, and improve readability; all d
 
 **[Click here to view the SQL table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/Inflation_vs_global_inf_table.csv)**
 
+This query containing a subquery was designed in order to filter and list the countries  maintaining inflation rates that exceed the global average within a given timeframe.
+
 **d) Unemployment Analysis**
 
 **[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/unemployment_analysis.sql)**
 
 **[Click here to view the SQL table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/unemployment_analysis_table.csv)**
+
+The purpose of this query was to identify the countries with a higher structural vulnerability to youth unemployment by calculating their youth unemployment multiplier. This analysis specifically isolates country-year observations where the multiplier increased while GDP contracted. The construction includes CTE, subquery, window functions, calculations, and conditions.
+
+**Key Insights:**
+The phenomenon of a surging youth unemployment multiplier during periods of economic contraction is not unique to developing countries, but frequently occurs in developed European economies such as France and Spain as well. This situation provides structural evidence of how rigid labor laws in developed markets—while protecting senior employees during crises—render the young employees vulnerable.
 
 **e) Welfare Levels of Countries**
 
@@ -108,7 +123,9 @@ To achieve standardization, maintain consistency, and improve readability; all d
 
 **[Click here to view the SQL table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/welfare_levels_table.csv)**
 
- *The detailed analysis report is currently being constructed.*
+The main purpose of this query was to classify countries in terms of their welfare levels which were determined depending on their misery index ( inflation rate + unemployment rate ). Countries were ranked in descending order based on their misery indexes. They were assigned 4 categories of risk/welfare states regarding their positions in ranking. Multiple CTE’s, conditional clauses, functions, and subqueries were utilized in this query.
+
+*The detailed analysis report is currently being constructed.*
  
 ### 5) TABLEAU
 
