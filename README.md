@@ -328,6 +328,18 @@ Le phénomène d’un multiplicateur en afflux de chômage des jeunes pendant le
 
 Le but principal de ces codes était de classifier les pays en termes de leurs niveaux de bien-être qui ont été déterminés selon leurs indices de misère ( taux d’inflation + taux de chômage ). Les pays ont été gradés dans l’ordre descendant selon leurs indices de misère. Ils ont été distribués à 4 catégories de l’état de risque/bien- être en regardant leurs positions dans le rang. CTE’s, des conditions, fonctions, et sous-quêtes ont été utilisés pour cette analyse. 
 
+**f) 3 Interrogations sur le Taux d’Intérêt, le PIB, et l'Inflation**
+
+**[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/interest_rate_gdp_inflation.sql)**
+
+Il existe 3 interrogations séparées, construites pour les buts différents:
+
+**1)**
+
+**2)**
+
+**3)**
+
 *Le rapport d'analyse détaillé est en cours de rédaction.*
 
 ### 5) TABLEAU
