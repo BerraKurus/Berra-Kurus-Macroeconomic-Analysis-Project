@@ -126,6 +126,18 @@ The phenomenon of a surging youth unemployment multiplier during periods of econ
 
 The main purpose of this query was to classify countries in terms of their welfare levels which were determined depending on their misery index ( inflation rate + unemployment rate ). Countries were ranked in descending order based on their misery indexes. They were assigned 4 categories of risk/welfare states regarding their positions in ranking. Multiple CTE’s, conditional clauses, functions, and subqueries were utilized in this query.
 
+**f) 3 Queries about Interest Rate, GDP, and Inflation**
+
+**[Click here to view the SQL query](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/interest_rate_gdp_inflation.sql)**
+
+This query contains 3 queries serving different purposes:
+
+**1)** 
+
+**2)** 
+
+**3)**
+
 *The detailed analysis report is currently being constructed.*
  
 ### 5) TABLEAU
