@@ -134,9 +134,15 @@ This query contains 3 queries serving different purposes:
 
 **1)** 
 
+[Click here to view the first table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/stagflation_analysis_table.csv)
+
 **2)** 
 
+[Click here to observe the second table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/successful_economies_table.csv)
+
 **3)**
+
+[Click here to analyze the third table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/stdev_inf_gdp_change_table.csv)
 
 *The detailed analysis report is currently being constructed.*
  
@@ -336,9 +342,15 @@ Il existe 3 interrogations séparées, construites pour les buts différents:
 
 **1)**
 
+[Cliquez pour observer la première table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/stagflation_analysis_table.csv)
+
 **2)**
 
+[Cliquez pour observer la deuxième table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/successful_economies_table.csv)
+
 **3)**
+
+[Cliquez pour analyser la troisième table](https://github.com/BerraKurus/Berra-Kurus-Macroeconomic-Analysis-Project/blob/main/stdev_inf_gdp_change_table.csv)
 
 *Le rapport d'analyse détaillé est en cours de rédaction.*
 
